@@ -1,4 +1,9 @@
-### Hi there 👋
+### YooHoo 👋 I'm Soumil
+
+[![facebook](https://socialize-md.vercel.app/api/badge/facebook)](https://www.facebook.com/soumilgad/)
+[![linkedin](https://socialize-md.vercel.app/api/badge/linkedin)](https://www.linkedin.com/in/soumil-gad/)
+[![spotify](https://socialize-md.vercel.app/api/badge/spotify)](https://open.spotify.com/user/soumil101?si=wFDGFkzUR1aBWXOfxpMQFA)
+
 
 <!--
 **soumil101/soumil101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
