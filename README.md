@@ -11,12 +11,12 @@
 <div align="center">
 
 - 🔭 I’m currently working on [an unbiased way to referee soccer.](https://github.com/SACUCD/PenaltyEncroachment)
-- 🌱 I’m currently learning frontend frameworks and nlp.
-- 👯 I’m looking to collaborate on anything! HMU
-- 🤝 I’m looking for help with exposure. Message me with any opportunities!
-- 💬 Ask me about anything!
-- 📫 How to reach me soumilgad@gmail.com
-- ⚡️ Fun fact I speak 4 languages
+- 🌱 I’m currently learning **frontend frameworks and nlp.**
+- 👯 I’m looking to collaborate on **anything! HMU**
+- 🤝 I’m looking for help with **exposure. Message me with any opportunities!**
+- 💬 Ask me about **anything!**
+- 📫 How to reach me **soumilgad@gmail.com**
+- ⚡️ Fun fact **I speak 4 languages**
 
 </div>
 
