@@ -10,7 +10,7 @@
 
 <div align="center">
 
-- 🔭 I’m currently working on [an unbiased way to referee soccer.](https://github.com/SACUCD/PenaltyEncroachment)
+- 🔭 I’m currently working on **[an unbiased way to referee soccer.](https://github.com/SACUCD/PenaltyEncroachment)**
 - 🌱 I’m currently learning **frontend frameworks and nlp.**
 - 👯 I’m looking to collaborate on **anything! HMU**
 - 🤝 I’m looking for help with **exposure. Message me with any opportunities!**
