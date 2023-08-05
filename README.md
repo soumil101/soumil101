@@ -38,7 +38,7 @@
 <p align="center">
   <div align="center" style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=soumil101&show_icons=true&locale=en&theme=transparent&hide_rank=true" alt="soumil101" height=175/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumil101&" alt="soumil101" height="175" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumil101&show_icons=true&locale=en&layout=donut" alt="soumil101" height="175" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumil101&" alt="soumil101" height="175" />
   </div>
 </p>
