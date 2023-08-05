@@ -42,3 +42,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumil101&" alt="soumil101" height="175" />
   </div>
 </p>
+
+![Snake animation](https://github.com/soumil101/soumil101/blob/output/github-contribution-grid-snake.svg)
