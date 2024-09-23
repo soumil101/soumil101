@@ -1,23 +1,14 @@
 <h1>
-<p align="center">Hello World!</p>
-<p align="center">👋</p>
-<p align="center">I'm Soumil</p>
+<p align="center">soumil gad</p>
+<p align="center">🙏</p>
+<p align="center">cs + stats at uc davis</p>
 </h1>
-
-<h3 align="center">Fullstack developer who's hungry to learn</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soumil101&label=Profile%20views&color=0e75b6&style=plastic&label=Visitors" alt="soumil101" /> </p>
 
 <div align="center">
 
-- 🌱 I’m currently learning **frontend frameworks and nlp.**
-- 👯 I’m looking to collaborate on **anything! HMU**
-- 🤝 I’m looking for help with **exposure. Message me with any opportunities!**
-- 💬 Ask me about **anything!**
-- 📫 How to reach me **soumilgad@gmail.com**
-- ⚡️ Fun fact **I speak 4 languages**
-
-</div>
+📫 reach me at **soumilgad@gmail.com** or **sgad@ucdavis.edu**
 
 
 <h3 align="center">My Other Platforms:</h3>
