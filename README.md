@@ -1,7 +1,6 @@
 <h1>
 <p align="center">soumil gad</p>
-<p align="center">🙏</p>
-<p align="center">engineering @ aws</p>
+<p align="center">mts @ mercor</p>
 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soumil101&label=Profile%20views&color=0e75b6&style=plastic&label=Visitors" alt="soumil101" /> </p>
